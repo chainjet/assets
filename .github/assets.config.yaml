@@ -19,6 +19,7 @@ validators_settings:
       - ".github"
       - "blockchains"
       - "dapps"
+      - "integrations"
       - "media"
       - "node_modules"
       - "script-old"
